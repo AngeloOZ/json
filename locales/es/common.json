@@ -1,0 +1,297 @@
+{
+    "navbar": [
+        {
+            "name": "Inicio",
+            "url": "#inicio"
+        },
+        {
+            "name": "Experiencia",
+            "url": "#experiencia"
+        },
+        {
+            "name": "Habilidades",
+            "url": "#habilidades"
+        },
+        {
+            "name": "Proyectos",
+            "url": "#proyectos"
+        },
+        {
+            "name": "Sobre mi",
+            "url": "#sobre-mi"
+        }
+    ],
+    "languages": {
+        "es": {
+            "name": "Español (EC)",
+            "image": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1693015301/portafolio/navbar/zfc15rt4zuikhlhnhd6e.png",
+            "code": "es"
+        },
+        "en": {
+            "name": "Ingles (US)",
+            "image": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1693015301/portafolio/navbar/n5mrak5crhyp8zsjdpsd.png",
+            "code": "en"
+        }
+    },
+    "hero": {
+        "greeting": "Hola 👋👋 <br />Soy <span class='text-blue-500'>Angello Ordonez</span>",
+        "name": "Soy Angello Ordoñez",
+        "profession": [
+            500,
+            "Ingeniero de Software",
+            500,
+            "Desarrollador Web",
+            500,
+            "Desarrollador de Software",
+            1000
+        ],
+        "avatar": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1693024847/portafolio/hero/IMG-20230312-WA0069_sqtcgy_ac3779.jpg",
+        "socialMedia": [
+            {
+                "name": "github",
+                "url": "https://github.com/AngeloOZ",
+                "icon": "github"
+            },
+            {
+                "name": "whatsapp",
+                "url": "https://github.com/AngeloOZ",
+                "icon": "whatsapp"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/angello_ordo/",
+                "icon": "instagram"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/angello-ordonez/",
+                "icon": "linkedin"
+            }
+        ]
+    },
+    "experience": {
+        "title": "Experiencia",
+        "subtitle": "Experiencia Laboral",
+        "jobs": [
+            {
+                "company": "PerseoSoft",
+                "period": "Noviembre 2022 - Presente",
+                "position": "Desarrollador Laravel",
+                "description": "Desarrollo de aplicaciones web con las ultimas tecnologias del mercado"
+            },
+            {
+                "company": "Freelancer",
+                "period": "Agosto 2022 - Noviembre 2022",
+                "position": "Full Stack Developer",
+                "description": "Desarrollo de aplicaciones web con las ultimas tecnologias del mercado"
+            },
+            {
+                "company": "DTIC Facultad de Informática y Electrónica - ESPOCH",
+                "period": "Abril 2022 - Agosto 2022",
+                "position": "Desarrollador de aplicaciones de escritorio",
+                "description": "Desarrollo de aplicaciones web con las ultimas tecnologias del mercado"
+            },
+            {
+                "company": "El Fogon de COZ",
+                "period": "Febrero 2022 - Julio 2022",
+                "position": "Full Stack Developer",
+                "description": "Desarrollo de aplicaciones web con las ultimas tecnologias del mercado"
+            },
+            {
+                "company": "Jessica Ballesteros - Contratista",
+                "period": "Diciembre 2021 - Febrero 2022",
+                "position": "Desarrollador PHP, JS"
+            }
+        ]
+    },
+    "skills": {
+        "title": "Mis Habilidades",
+        "subtitle": "Habilidades",
+        "soonText": "En curso",
+        "skills": [
+            {
+                "name": "HTML5",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736642/portafolio/skills/dnwhnlgxoetwwynl6f2g.png",
+                "soon": false,
+                "listContent": [
+                    "Atributos meta",
+                    "Estructura de un documento HTML",
+                    "Elementos y atributos",
+                    "Elementos semanticos",
+                    "Formularios",
+                    "Multimedia"
+                ]
+            },
+            {
+                "name": "CSS3",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736641/portafolio/skills/pbqxciylsoa9vvzkhd6v.png",
+                "soon": false,
+                "listContent": [
+                    "Selectores",
+                    "Pseudo-clases y pseudo-elementos",
+                    "Modelo de caja",
+                    "Flexbox",
+                    "Grid",
+                    "Animaciones",
+                    "Responsive Design",
+                    "Variables CSS",
+                    "Nomemclatura BEM"
+                ]
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736641/portafolio/skills/vwrnyvi2adfrtcdlhog1.png",
+                "soon": false,
+                "listContent": [
+                    "Grid",
+                    "Componentes",
+                    "Formularios",
+                    "Responsive Design",
+                    "Iconos"
+                ]
+            },
+            {
+                "name": "JavaScript",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736641/portafolio/skills/retnmnile2mzhslj8xjj.png",
+                "soon": false,
+                "listContent": [
+                    "Sintaxis básica",
+                    "Estructuras de control",
+                    "Funciones",
+                    "Arreglos",
+                    "Objetos",
+                    "DOM",
+                    "AJAX",
+                    "JSON",
+                    "ES6+",
+                    "Asincronía"
+                ]
+            },
+            {
+                "name": "TypeScript",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736643/portafolio/skills/ooldmrw5km0vdvdpa1rq.png",
+                "soon": false,
+                "listContent": [
+                    "Sintaxis básica",
+                    "Funciones",
+                    "Interfaces",
+                    "Clases",
+                    "Tipos avanzados",
+                    "Manejo de errores",
+                    "Asincronía"
+                ]
+            },
+            {
+                "name": "React",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736642/portafolio/skills/fpskaqnwcennzphvt0rg.png",
+                "soon": false,
+                "listContent": [
+                    "Componentes",
+                    "Hooks",
+                    "Custom Hooks",
+                    "Props",
+                    "Context API",
+                    "React Router",
+                    "Renderizado condicional",
+                    "HOC",
+                    "Compound Component Pattern",
+                    "Control Props",
+                    "Render Props"
+                ]
+            },
+            {
+                "name": "Next.js",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736642/portafolio/skills/ef0nzvxu029mdtokw1pv.png",
+                "soon": false
+            },
+            {
+                "name": "Material UI",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736642/portafolio/skills/iu5ue9zb9ezujfvyme3t.png",
+                "soon": false
+            },
+            {
+                "name": "Node.js",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692907384/nodejs2_agkwje.png",
+                "soon": false
+            },
+            {
+                "name": "Express.js",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692737408/express_icfshh.png",
+                "soon": false
+            },
+            {
+                "name": "PHP",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736642/portafolio/skills/hakurinvzbash0tiqvfh.png",
+                "soon": false
+            },
+            {
+                "name": "Laravel",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736642/portafolio/skills/dpz3hzbthnyyzv5yke4x.png",
+                "soon": false
+            },
+            {
+                "name": "Flutter",
+                "icon": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1692736643/portafolio/skills/omz4ktdjd0ongg1gioub.png",
+                "soon": true
+            }
+        ]
+    },
+    "projects": {
+        "title": "Mis Proyectos",
+        "subtitle": "Proyectos",
+        "projects": [
+            {
+                "name": "Portafolio",
+                "description": "Portafolio personal",
+                "image": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1693345299/Proyectos/hablaplus/principal_paciente.png",
+                "technology": [
+                    "React",
+                    "TailwindCSS"
+                ],
+                "repository": "",
+                "live": ""
+            },
+            {
+                "name": "Habla+",
+                "description": "Portafolio personal presasd",
+                "image": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1693345299/Proyectos/hablaplus/principal_paciente.png",
+                "technology": [
+                    "React",
+                    "Next.js",
+                    "Matertial UI",
+                    "SWR",
+                    "REST API"
+                ],
+                "repository": "",
+                "live": ""
+            }
+        ]
+    },
+    "about": {
+        "title": "Sobre mi",
+        "photo": "https://res.cloudinary.com/dzfg3crbt/image/upload/v1693024847/portafolio/hero/IMG-20230312-WA0069_sqtcgy_ac3779.jpg",
+        "contacts": {
+            "email": {
+                "name": "Correo",
+                "value": "angello.ordonez@hotmail.com",
+                "url": "mailto:angello.ordonez@hotmail.com"
+            },
+            "place": {
+                "name": "Lugar",
+                "value": "Riobamba, Ecuador",
+                "url": ""
+            },
+            "phone": {
+                "name": "Teléfono",
+                "value": "+593 98 765 4321",
+                "url": "tel:+593987654321"
+            }
+        },
+        "content": {
+            "name": "Soy Angello",
+            "job": "Ingeniero de Software",
+            "description": "Soy un desarrollador de software con 2 años de experiencia en el desarrollo de aplicaciones web y de escritorio. Me gusta aprender nuevas tecnologias y aplicarlas en mis proyectos. Me gusta trabajar en equipo y compartir mis conocimientos con los demas."
+        },
+        "resume": ""
+    }
+}
